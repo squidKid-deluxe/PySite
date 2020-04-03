@@ -2,7 +2,7 @@
 
 A module that uses python definitions to write simple HTML and CSS script out of settings the user specifies.
 
-This module handles paragraphs, 4 different headers, links, divisions, and images.
+This module handles paragraphs, 6 different headers, links, divisions, and images.
 
 To create a complete HTML webpage, first call the `clear()` function to clear the HTML file,
 
